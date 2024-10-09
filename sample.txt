@@ -1,0 +1,3 @@
+Sample
+
+This is a sample text file to use for week 2 GitHub activiy
